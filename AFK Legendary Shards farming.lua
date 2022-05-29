@@ -10,8 +10,8 @@
 --  3.6.Import this Lua file directly
 --  3.7.Change something need to be modified
 --4.There are 2 places need to be modified by yourself, see the notes for details (at the end of script)
---6.How to START the script: turn on the CapsLock, then click the right mouse button
---7.How to STOP the script: turn off the CapsLock(would teminal within 15 sec) / directly Quit the Logitech G Hub
+--5.How to START the script: turn on the CapsLock, then click the right mouse button
+--6.How to STOP the script: turn off the CapsLock(would teminal within 15 sec) / directly Quit the Logitech G Hub
 --7.Please indicate the source when reprinting, author @A1ienShoo7er(yfans@live.cn)
 
 
