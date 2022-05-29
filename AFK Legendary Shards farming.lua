@@ -69,7 +69,7 @@ function goBuy()
         MoveMouseTo(31179,24598)
         Sleep(600)
         PressAndReleaseMouseButton(1)
-        Sleep(800)
+        Sleep(300)
         MoveMouseTo(12021,50169)
         Sleep(800)
         PressAndReleaseMouseButton(1)
@@ -144,12 +144,14 @@ function doF()
             dismantle()
         end
     end
+    PressAndReleaseKey(0x3b)
+    Sleep(600)
 end
 
 function goG()
     if (IsKeyLockOn("capslock")) then
     Sleep(500)
-    PressAndReleaseKey(0x01)
+    --PressAndReleaseKey(0x01)
     Sleep(2500)
     end
 end
