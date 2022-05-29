@@ -1,5 +1,5 @@
-# Destiny2-Augmented
-enhance you gaming life in Destiny 2 <br><br>
+# Destiny 2 Augmented
+Enhance Your Gaming Life In Destiny 2 <br><br>
 
 # AFK Legendary Shards farming feat. Logitech G Hub
 0.Download this file and open with notepad<br>
