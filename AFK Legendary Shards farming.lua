@@ -38,13 +38,6 @@ function A1ienShoo7er()
     end
 end
  
-function getPosition()
-    if IsMouseButtonPressed(1) then
-        x, y = GetMousePosition()
-        OutputLogMessage("Mouse is at %d, %d\n", x, y)
-        Sleep(1000)
-    end
-end
  
 function reacquire()
     PressMouseButton(1)
